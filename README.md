@@ -88,6 +88,20 @@ We provide two example inference scripts that use different tokenization schemes
 ## License
 The resources in this repository are released under the Creative Commons Attribution 4.0 International License (CC-BY 4.0). This license allows for sharing and adaptation of the material, provided appropriate credit is given.
 
+
+
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+
 ---
 
 
