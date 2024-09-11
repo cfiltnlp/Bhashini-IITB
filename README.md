@@ -14,8 +14,8 @@ As part of **Mission Bhashini**, we are working on two major Machine Translation
 - **Pre-trained Machine Translation Models**: The models are designed to handle diverse translation tasks and can be used directly or fine-tuned for specific applications.
 
 #### Resource Links
-- [**Datasets**](https://www.cfilt.iitb.ac.in/bhashini_deployments/datasets)
-- [**Pre-trained Machine Translation Models**](https://www.cfilt.iitb.ac.in/bhashini_deployments/models)
+- [**Datasets**](https://www.cfilt.iitb.ac.in/bhashini_deployments/)
+- [**Pre-trained Machine Translation Models**](https://www.cfilt.iitb.ac.in/bhashini_deployments/)
 
 
 ---
