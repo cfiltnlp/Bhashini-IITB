@@ -78,7 +78,7 @@ The following prestigious institutes are collaborating on these projects:
 
 We provide two example inference scripts that use different tokenization schemes. 
 - [**Hindi to Konkani**](scripts/translate-hi-ko.py): This script uses bpe tokenizer.
-- [**English to Manipuri**](scripts/translate-en-mn.py/): This script uses spm tokenizer.
+- [**English to Manipuri**](scripts/translate-en-mn.py): This script uses spm tokenizer.
 
 
 
