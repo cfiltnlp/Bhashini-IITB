@@ -63,9 +63,9 @@ The following prestigious institutes are collaborating on these projects:
 ### VIDYAAPATI Project:
 - IIT Bombay
 - IIT Patna
+- C-DAC Pune
 - Goa University
 - Jadavpur University
-- C-DAC Pune
 - Jawaharlal Nehru University (JNU)
 - Indian Statistical Institute (ISI), Kolkata
 
