@@ -65,6 +65,7 @@ The following prestigious institutes are collaborating on these projects:
 - IIT Patna
 - Goa University
 - Jadavpur University
+- C-DAC Pune
 - Jawaharlal Nehru University (JNU)
 - Indian Statistical Institute (ISI), Kolkata
 
