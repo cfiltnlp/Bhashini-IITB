@@ -68,6 +68,7 @@ The following prestigious institutes are collaborating on these projects:
 - Jadavpur University
 - Jawaharlal Nehru University (JNU)
 - Indian Statistical Institute (ISI), Kolkata
+- C-DAC Kolkata
 
 
 ---
